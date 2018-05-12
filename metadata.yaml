@@ -1,4 +1,8 @@
 _repo: Isat-ja-lapset-Romaani_51111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51111#Isat-ja-lapset-Romaani
 gutenberg_issued: '2016-02-02'
 gutenberg_type: Text
 identifiers:
